@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-ctf-group/",
+    "build": "vite build --base=/123-html-css-Vfrost1310/",
     "preview": "vite preview"
   },
   "devDependencies": {
